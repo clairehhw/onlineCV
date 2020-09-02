@@ -1,0 +1,124 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    #about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Claire Haowen Huang
+    tagline: Program Coordinator at Division of Computing, Data Science, and Society, UC Berkeley 
+    avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: claire-hw-huang@berkeley.edu
+    phone: 
+    website: 
+    linkedin: claire-hw-huang
+    github: https://github.com/clairehhw
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Mandarin
+        level: Native
+
+    interests:
+      - item: Puzzles
+        link:
+      - item: Documentaries
+        link:
+      - item: Baking
+        link:
+
+career-profile:
+    title: About Me
+    summary: |
+        Hi, my name is Haowen Huang 黄昊雯 and I go by Claire. 
+        I'm set to graduate in May next year as a Media Studies and Data Science double-major at the University of California, Berkeley.
+        My coursework includes Data Structures, Industrial and Commercial Data Systems, Marketing, 
+        Principles and Techniques of Data Science, Statistical Modeling, and 
+        Service Operations Design and Analysis. Such interdisciplinary learning experience has inspired me to explore opportunities in busiess analytics.
+        Outside of classrooms, I'm a strong advocate for cultural exchanges between the US and China and represented the [Project Pengyou](https://projectpengyou.org/) Berkeley Chapter 19-20.
+      
+education:
+    - degree: BA in Data Science & Media Studies 
+      university: University of California, Berkeley
+      time: 2017 - 2021
+      details: |
+        
+
+experiences:
+    - role: Program Coordinator
+      time: May 2020 – Present
+      company: Division of Computing, Data Science and Society, Berkeley, CA
+      details: |
+        * Achieved an increase of over 20% in program applicants by implementing dynamic project matching tools using Google App script and Google Script API
+        * Created instructional videos on project matching that reach an audience of over 2000 people
+        * Proposed and designed ds-discovery.github.io, a Jekyll site showcasing 50+ Discovery projects that allows students, project partners, and donors to connect and engage with the community.
+
+    - role: Internal Operations Intern
+      time: September 2019 – May 2020
+      company: Division of Computing, Data Science and Society, Berkeley, CA
+      details: |
+        * Delivered ad-hoc reporting and analysis on program performance by designing, collecting, and examining surveys from over 300 project partners and student researchers 
+        * Led a team of 7 responsible for weekly communications with project partners from prominent institutions including SF Chronicle, NASA, and Bart. 
+
+    - role: Data Science Intern
+      time: June 2019 – August 2019
+      company: Teradata, Shanghai
+      details: |
+        * Contributed to the installation of TPOT (Tree-based Pipeline Optimization Tool) by documenting a 20-page introductory manual that includes overview, demo, and limitations
+        * Obtained Teradata business objectives and domain knowledge on relational database management by assisting senior data scientists and product managers 
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Modern Slavery in Asia
+        link: 
+        tagline: "A web-scraping and word analysis project that explores the negative stereotypes and false expectations imposed on domestic workers in Hong Kong and Taiwan."
+
+      - title: Dynamic Student-Project Dashboard
+        link: "https://github.com/clairehhw/Dynamic-Matching-Dashboards"
+        tagline: "An interactive project matching tool that quantifies application materials, tracks and consolidates interview data, and therefore generates insights on the recruiting process for 400+ participants."
+      
+      - title: Discovery Project website
+        link: "https://ds-discovery.github.io/"
+        tagline: "A Jekyll site showcasing 50+ Discovery projects that allows students, project partners, and donors to connect and engage with the community."
+      
+      - title: Renewables and Competition in Retail Electricity Markets 
+        link: "https://github.com/clairehhw/Renewables-and-Competition-in-Retail-Electricity-Markets"
+        tagline: "A machine learning project that trains an NLP model to identify key information such as keyword occurrences, string-to-integer ratio, and page location and subsequently improved the performance of Optical Character Recognition software."
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: SQL
+        level: 98%
+
+      - name: Google App Script
+        level: 95%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
