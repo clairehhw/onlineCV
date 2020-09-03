@@ -84,10 +84,6 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Modern Slavery in Asia
-        link: 
-        tagline: "A web-scraping and word analysis project that explores the negative stereotypes and false expectations imposed on domestic workers in Hong Kong and Taiwan."
-
       - title: Dynamic Student-Project Dashboard
         link: "https://github.com/clairehhw/Dynamic-Matching-Dashboards"
         tagline: "An interactive project matching tool that quantifies application materials, tracks and consolidates interview data, and therefore generates insights on the recruiting process for 400+ participants."
@@ -99,6 +95,11 @@ projects:
       - title: Renewables and Competition in Retail Electricity Markets 
         link: "https://github.com/clairehhw/Renewables-and-Competition-in-Retail-Electricity-Markets"
         tagline: "A machine learning project that trains an NLP model to identify key information such as keyword occurrences, string-to-integer ratio, and page location and subsequently improved the performance of Optical Character Recognition software."
+        
+      - title: Modern Slavery in Asia
+        link: 
+        tagline: "A web-scraping and word analysis project that explores the negative stereotypes and false expectations imposed on domestic workers in Hong Kong and Taiwan."
+
 
 
 skills:
