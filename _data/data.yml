@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Claire Haowen Huang
+    name: Claire (Haowen) Huang
     tagline: Program Coordinator at Division of Computing, Data Science, and Society, UC Berkeley 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
