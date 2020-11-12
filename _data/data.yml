@@ -44,11 +44,10 @@ career-profile:
     title: About Me
     summary: |
         Hi, my name is Haowen Huang 黄昊雯 and I go by Claire. 
-        I'm set to graduate in May next year as a Media Studies and Data Science double-major at the University of California, Berkeley.
-        My coursework includes Data Structures, Industrial and Commercial Data Systems, Marketing, 
-        Principles and Techniques of Data Science, Statistical Modeling, and 
-        Service Operations Design and Analysis. Such interdisciplinary learning experience has inspired me to explore opportunities in business analytics.
-        Outside of classrooms, I'm passionate about the US-China cultural exchanges and represented the [Project Pengyou](https://projectpengyou.org/) Berkeley Chapter 19-20.
+        I’m set to graduate in May 2021 as a Media Studies and Data Science double-major at the University of California, Berkeley. 
+        My interdisciplinary courseworks have inspired me to apply data-driven methods to solve real-life challenges. 
+        Proficient in statistical analysis tools such as Python and SQL, I've also honed efficient communication and product management skills by working cross-functionally as independently from various internship and research experiences. 
+        Outside of classrooms, I’m passionate about the US-China cultural exchanges and represented the Project Pengyou Berkeley Chapter 19-20.
       
 education:
     - degree: BA in Data Science & Media Studies 
@@ -62,23 +61,30 @@ experiences:
       time: May 2020 – Present
       company: Division of Computing, Data Science and Society, Berkeley, CA
       details: |
-        * Achieved an increase of over 20% in program applicants by implementing dynamic project matching tools using Google App script and Google Script API
-        * Created instructional videos on project matching that reach an audience of over 2000 people
-        * Proposed and designed ds-discovery.github.io, a Jekyll site showcasing 50+ Discovery projects that allows students, project partners, and donors to connect and engage with the community.
+        * Discovery Program is one of the most important teams in the Division of Computing, Data Science and Society at UC Berkeley, providing more than 30,000 undergraduates with hands-on opportunities for cutting-edge data science-related projects. Project partners include Lawrence National Laboratory, NASA. 
+        * Headed the product development team of 10 people on the planning and design of Discovery web portal. Worked independently to output functional prototypes such as the project form, user registration, interview tracking board, as well as cross-functionally with colleagues to assist the app building process in Django.
+        * Achieved an increase of over 20% in program applicants by after conducting SWOT analysis on the previous project-student matching tool and building a a real-time updated matching tool in Spreadsheet with Google App script.
+    
+    - role: Business Analyst Intern
+      time: June 2020 – August 2020
+      company: Wayfair, Boston, MA
+      details: |
+        * Internship offer accepted, canceled due to COVID-19 
 
+    
     - role: Internal Operations Intern
       time: September 2019 – May 2020
       company: Division of Computing, Data Science and Society, Berkeley, CA
       details: |
-        * Delivered ad-hoc reporting and analysis on program performance by designing, collecting, and examining surveys from over 300 project partners and student researchers 
-        * Led a team of 7 responsible for weekly communications with project partners from prominent institutions including SF Chronicle, NASA, and Bart. 
+        * Worked and synthesized survey data collected from over 300 project partners and student researchers into actionable insights that improved program structure, daily operations, and staff workflow.
+        * Led a team of 7 responsible for effective and persuasive communications with project partners from prominent institutions.
 
     - role: Data Science Intern
       time: June 2019 – August 2019
       company: Teradata, Shanghai
       details: |
-        * Contributed to the installation of TPOT (Tree-based Pipeline Optimization Tool) by documenting a 20-page introductory manual that includes overview, demo, and limitations
-        * Obtained Teradata business objectives and domain knowledge on relational database management by assisting senior data scientists and product managers 
+        * Contributed to the installation of TPOT (Tree-based Pipeline Optimization Tool) by documenting a 20-page introductory manual that includes overview, demo, and limitations.
+        * Obtained Teradata business objectives and domain knowledge on relational database management by assisting senior data scientists and product managers.
 
 projects:
     title: Projects
