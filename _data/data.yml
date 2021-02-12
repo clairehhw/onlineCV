@@ -61,9 +61,8 @@ experiences:
       time: May 2020 – Present
       company: Division of Computing, Data Science and Society, Berkeley, CA
       details: |
-        * Discovery Program is one of the most important teams in the Division of Computing, Data Science and Society at UC Berkeley, providing more than 30,000 undergraduates with hands-on opportunities for cutting-edge data science-related projects. Project partners include Lawrence National Laboratory, NASA. 
-        * Headed the product development team of 10 people on the planning and design of Discovery web portal. Worked independently to output functional prototypes such as the project form, user registration, interview tracking board, as well as cross-functionally with colleagues to assist the app building process in Django.
-        * Achieved an increase of over 20% in program applicants by after conducting SWOT analysis on the previous project-student matching tool and building a a real-time updated matching tool in Spreadsheet with Google App script.
+        * Discovery Program is one of the most important teams in the Division of Computing, Data Science and Society at UC Berkeley, providing more than 30,000 undergraduates with hands-on opportunities for cutting-edge data science-related projects. Project partners include Lawrence National Laboratory, WSJ, and NASA. 
+        * Led a team of 10 web developers to create an online Discovery application portal that supports program participants, prompting 40% increase in applications. Developed detailed product requirement documents, set priorities with sprint schedules for the agile development environment, and crafted wireframes, design mockups as well as walkthroughs for the product. 
     
     - role: Business Analyst Intern
       time: June 2020 – August 2020
@@ -76,21 +75,23 @@ experiences:
       time: September 2019 – May 2020
       company: Division of Computing, Data Science and Society, Berkeley, CA
       details: |
-        * Worked and synthesized survey data collected from over 300 project partners and student researchers into actionable insights that improved program structure, daily operations, and staff workflow.
-        * Led a team of 7 responsible for effective and persuasive communications with project partners from prominent institutions.
+        * Attained 20% increase in average team performance by applying VADER to identify struggling teams. Built data visualization dashboards using Google Colab to reflect insights on workshop attendance. Consistently met strict weekly deadlines to refer actionable items to appropriate support staff while documenting and maintaining the database.
 
     - role: Data Science Intern
       time: June 2019 – August 2019
       company: Teradata, Shanghai
       details: |
-        * Contributed to the installation of TPOT (Tree-based Pipeline Optimization Tool) by documenting a 20-page introductory manual that includes overview, demo, and limitations.
-        * Obtained Teradata business objectives and domain knowledge on relational database management by assisting senior data scientists and product managers.
+        * Contributed to the installation of TPOT (Tree-based Pipeline Optimization Tool) by documenting a 20-page introductory manual that includes overview, demo, and limitations. Obtained Teradata business objectives and domain knowledge on relational database management by assisting senior data scientists and product managers.
 
 projects:
     title: Projects
     intro: >
     assignments:
-      - title: Dynamic Student-Project Dashboard
+      - title: DS Discovery Application Portal
+        link: "http://dsdiscovery.org/"
+        tagline: "An application portal for hundreds of Berkeley students to browse and apply for exciting data science research opportunities and for project partners to efficiently recruit best candidates."
+     
+     - title: Dynamic Student-Project Dashboard
         link: "https://github.com/clairehhw/Dynamic-Matching-Dashboards"
         tagline: "An interactive project matching tool that quantifies application materials, tracks and consolidates interview data, and therefore generates insights on the recruiting process for 400+ participants."
       
