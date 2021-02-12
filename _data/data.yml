@@ -91,7 +91,7 @@ projects:
         link: "http://dsdiscovery.org/"
         tagline: "An application portal for hundreds of Berkeley students to browse and apply for exciting data science research opportunities and for project partners to efficiently recruit best candidates."
      
-     - title: Dynamic Student-Project Dashboard
+      - title: Dynamic Student-Project Dashboard
         link: "https://github.com/clairehhw/Dynamic-Matching-Dashboards"
         tagline: "An interactive project matching tool that quantifies application materials, tracks and consolidates interview data, and therefore generates insights on the recruiting process for 400+ participants."
       
